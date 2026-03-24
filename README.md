@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+  
 **Information Manager / Software Developer / Learner**
+
 </div>
 
 - 🔭 I’m currently working on one of the state-owned energy enterprises
