@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
 -->
 
 <div align="center">
@@ -44,4 +46,6 @@ Here are some ideas to get you started:
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=chizhang0213&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ffffff,eef2f8,cbd5e6,a0b9d8,7496c4" alt="Chi's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chizhang0213&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,ffffff,eef2f8,cbd5e6,a0b9d8,7496c4" alt="Most Used Languages">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=消息1;消息2&font=Roboto" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chizhang0213&bg_color=ffffff&color=7496c4&line=7496c4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+</div>
