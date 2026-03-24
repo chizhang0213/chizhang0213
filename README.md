@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hi, I'm Chi 👋
+# Hi, I'm Chi 👋
 
 </div>
 
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  
-**Information Manager / Software Developer / Learner**
+
+<span style="font-size: 28px; font-weight: bold;">Information Manager / Software Developer / Learner</span>
 
 </div>
 
