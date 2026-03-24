@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>**Information Manager / Software Developer / Learner**</center>
+<div align="center">
+**Information Manager / Software Developer / Learner**
+</div>
 
 - 🔭 I’m currently working on one of the state-owned energy enterprises
 - 🌱 I’m currently learning CFA and try something interesting
