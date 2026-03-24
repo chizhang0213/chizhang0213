@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-<div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=chizhang0213&show_icons=true&theme=radical" width="550">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chizhang0213&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=2d767f" width="450">
 </div>
 # 🔤 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chizhang0213&layout=compact&theme=radical" width="450">
