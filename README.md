@@ -1,4 +1,8 @@
-##<centert> Hi, I'm Chi👋</center> 
+<div align="center">
+
+**Hi, I'm Chi 👋**
+
+</div>
 
 ---
 
