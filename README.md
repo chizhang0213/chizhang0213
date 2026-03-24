@@ -1,4 +1,6 @@
-## Hi there 👋
+<centert>## Hi, I'm Chi👋</center> 
+
+---
 
 <!--
 **chizhang0213/chizhang0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Chi from China, currently based in Shanghai as a information manager of @Sinopec
+<center>**Information Manager / Software Developer / Learner**</center>
+
+- 🔭 I’m currently working on one of the state-owned energy enterprises
+- 🌱 I’m currently learning CFA and try something interesting
+- 📫 How to reach me: chizhang0213@gmail.com
