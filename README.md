@@ -25,6 +25,17 @@ Here are some ideas to get you started:
 
 </div>
 
-- 🔭 I’m currently working on one of the state-owned energy enterprises
-- 🌱 I’m currently learning CFA and try something interesting
+- 🔭 Currently working on one of the state-owned energy enterprises
+- 🌱 Learning CFA and try something interesting
 - 📫 How to reach me: chizhang0213@gmail.com
+
+**🛠️ Languages & Tools**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
