@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<span style="font-size: 10px; font-weight: bold;">Information Manager / Software Developer / Learner</span>
+## Information Manager / Software Developer / Learner##
 
 </div>
 
