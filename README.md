@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 - 🔭 Currently working on one of the state-owned energy enterprises
-- 🌱 Learning CFA and try something interesting
+- 🌱 Learning CFA and try to develop something interesting
 - 📫 How to reach me: chizhang0213@gmail.com
 
 **🛠️ Languages & Tools**
