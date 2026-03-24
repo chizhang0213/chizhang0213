@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chizhang0213&show_icons=true&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=2d767f" width="450">
+<img src="https://github-readme-stats.vercel.app/api?username=chizhang0213&show_icons=true&bg_color=45, ff7979, ffd479, fffc79, 73fa&title_color=000000&text_color=333333&icon_color=2d767f" width="450">
 </div>
 # 🔤 Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chizhang0213&layout=compact&theme=radical" width="450">
