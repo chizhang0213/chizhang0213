@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 
 <img height="130px" src="https://github-readme-stats.vercel.app/api?username=chizhang0213&hide_title=true&show_icons=true&hide=issues&include_all_commits=true&count_private=true&theme=graywhite&hide_border=true&bg_color=45,ffffff,eef2f8,cbd5e6,a0b9d8,7496c4" alt="Chi's GitHub Stats"> <img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=chizhang0213&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,ffffff,eef2f8,cbd5e6,a0b9d8,7496c4" alt="Most Used Languages">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chizhang0213&bg_color=ffffff&color=4a6c9c&line=4a6c9c&point=4a6c9c&area=true&hide_border=true&radius=0&custom_title=&hide_axis=false&line_weight=3&grid=false">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chizhang0213&bg_color=ffffff&color=4a6c9c&line=4a6c9c&point=4a6c9c&area=true&hide_border=true&grid=false&hide_axis=false&month_points=1&quarter_points=1&custom_title=">
