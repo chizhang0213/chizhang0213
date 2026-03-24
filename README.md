@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chizhang0213&show_icons=true&theme=radical" width="450">
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=chizhang0213&show_icons=true&theme=radical" width="550">
 </div>
