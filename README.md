@@ -3,7 +3,6 @@
 ## Hi, I'm Chi 👋
 
 </div>
----
 
 <!--
 **chizhang0213/chizhang0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
