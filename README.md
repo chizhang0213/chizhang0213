@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-*Information Manager / Software Developer / Learner*
+**Information Manager / Software Developer / Learner**
 
 </div>
 
