@@ -46,4 +46,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=chizhang0213&show_icons=true&theme=radical" width="550">
 </div>
 # 🔤 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=radical" width="450">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chizhang0213&layout=compact&theme=radical" width="450">
